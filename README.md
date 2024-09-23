@@ -37,6 +37,17 @@ Navigate to the project directory and install the required dependencies using `p
 ```bash
 cd CareerCraft-ATS-Resume-Analyzer
 pip install -r requirements.txt
+```
+
+### Step 4: Run the Application
+After installing the dependencies, run the application using Streamlit:
+
+```bash
+streamlit run app.py
+```
+
+
+
 
 
 
