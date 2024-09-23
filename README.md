@@ -21,5 +21,12 @@ The latest commit was made by [arshikhan5422](https://github.com/arshikhan5422),
 To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/arshikhan5422/CareerCraft-ATS-Resume-Analyzer.git
+```
 
+### Step 2: Create an `images` Folder and Load Icons
+After cloning the repository, create an `images` directory inside the project folder and move the icons (`icon1.png`, `icon2.png`, `icon3.png`) into this folder:
+
+```bash
+mkdir images
+mv icon1.png icon2.png icon3.png images/
 
