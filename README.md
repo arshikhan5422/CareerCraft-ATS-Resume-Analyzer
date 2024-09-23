@@ -57,10 +57,12 @@ The project is built with Python, Streamlit, and various other Python libraries,
 ## Screenshots
 
 Here are some screenshots of the application output:
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
+![Screenshot (10)](https://github.com/user-attachments/assets/4dc85758-a1e1-4c82-821c-9673265ee140)
+![Screenshot (11)](https://github.com/user-attachments/assets/747a02b8-4d30-4eca-956f-d6c9755b88a8)
+![Screenshot (12)](https://github.com/user-attachments/assets/51afa21e-3271-4b88-9f12-fba19d189456)
+![Screenshot (13)](https://github.com/user-attachments/assets/35ebf785-97b9-4857-b3c8-b5cbc0bf103c)
+![Screenshot (14)](https://github.com/user-attachments/assets/34fb9d05-4a9e-47b1-acb5-218bf2630e0f)
+![Screenshot (15)](https://github.com/user-attachments/assets/98d52494-8b48-40e0-ad58-ff940670917a)
 
 
 
