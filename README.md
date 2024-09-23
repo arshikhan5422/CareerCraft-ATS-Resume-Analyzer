@@ -23,4 +23,3 @@ To get started, clone the repository to your local machine:
 git clone https://github.com/arshikhan5422/CareerCraft-ATS-Resume-Analyzer.git
 
 
-
