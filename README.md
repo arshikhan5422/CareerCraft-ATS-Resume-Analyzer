@@ -22,24 +22,5 @@ To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/arshikhan5422/CareerCraft-ATS-Resume-Analyzer.git
 
-Step 2: Install Dependencies
-Navigate to the project directory and install the required dependencies using pip:
-'''bash
-cd CareerCraft-ATS-Resume-Analyzer
-pip install -r requirements.txt
-
-Step 3: Run the Application
-After installing the dependencies, run the application using Streamlit:
-'''bash
-streamlit run app.py
-The application will launch in your default web browser, where you can interact with the ATS-optimized resume analyzer.
-
-Project Overview
-The CareerCraft: ATS-Optimized Resume Analyzer is designed to help job seekers by:
-
-Comparing resumes to job descriptions.
-Identifying missing keywords.
-Providing suggestions for improving the resume to better align with ATS systems.
-The project is built with Python, Streamlit, and various other Python libraries, as listed in the requirements.txt file.
 
 
