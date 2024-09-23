@@ -54,6 +54,14 @@ Identifying missing keywords.
 Providing suggestions for improving the resume to better align with ATS systems.
 The project is built with Python, Streamlit, and various other Python libraries, as listed in the requirements.txt file.
 
+## Screenshots
+
+Here are some screenshots of the application output:
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
+
 
 
 
