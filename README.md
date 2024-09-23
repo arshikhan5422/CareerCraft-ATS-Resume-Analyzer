@@ -46,6 +46,14 @@ After installing the dependencies, run the application using Streamlit:
 streamlit run app.py
 ```
 
+### Step 5: Project Overview
+The CareerCraft: ATS-Optimized Resume Analyzer is designed to help job seekers by:
+
+Comparing resumes to job descriptions.
+Identifying missing keywords.
+Providing suggestions for improving the resume to better align with ATS systems.
+The project is built with Python, Streamlit, and various other Python libraries, as listed in the requirements.txt file.
+
 
 
 
