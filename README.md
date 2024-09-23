@@ -29,4 +29,14 @@ After cloning the repository, create an `images` directory inside the project fo
 ```bash
 mkdir images
 mv icon1.png icon2.png icon3.png images/
+```
+
+### Step 3: Install Dependencies
+Navigate to the project directory and install the required dependencies using `pip`:
+
+```bash
+cd CareerCraft-ATS-Resume-Analyzer
+pip install -r requirements.txt
+
+
 
